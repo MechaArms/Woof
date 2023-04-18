@@ -9,7 +9,7 @@ experience for the user.
 
 
 <p align="center">
-  <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-material-theming/img/e02680a02ab997d5_856.png?hl=pt-br" width="30%" height="30%"/>
+  <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-woof-animation/img/7252aa244a54ad90_856.png?hl=pt-br" width="30%" height="30%"/>
 </p>
 
 
